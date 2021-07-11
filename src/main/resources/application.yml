@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    drive-class-name: postgres
+    url: jdbc:postgresql://localhost:5432/study-db
+    username: postgres
+    password: Vls021130
+  sql:
+    init:
+      platform: postgres

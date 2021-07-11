@@ -3,7 +3,7 @@ spring:
     drive-class-name: postgres
     url: jdbc:postgresql://localhost:5432/study-db
     username: postgres
-    password: Vls021130
+    password: ${DATABASE_PASSWORD:123455}
   sql:
     init:
       platform: postgres

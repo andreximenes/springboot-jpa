@@ -2,4 +2,4 @@
 simple project to learn more about java, springboot and JPA concepts.
 
 
-É necessário ter o postgresql instalado e passar as informacoes de conexão com o banco no application.yml
+Project maked to help a friend in a thecnical interview.
